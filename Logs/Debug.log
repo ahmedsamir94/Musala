@@ -1,0 +1,82 @@
+2022-05-21 17:39:18.1426 - 12 - MusalaFrameWork.HomePage.GoTo - DEBUG: Attempting to Reach the URL 
+2022-05-21 17:39:22.6712 - 12 - MusalaFrameWork.HomePage.GoTo - INFO: Open URL =>https://www.musala.com/ 
+2022-05-21 17:39:22.8076 - 12 - MusalaFrameWork.HomePage.ClickCareers - DEBUG: Attempting to open the careers Tab 
+2022-05-21 17:39:27.7922 - 12 - MusalaFrameWork.HomePage.ClickCareers - DEBUG: Company Tab Opened successfully 
+2022-05-21 17:39:41.2413 - 12 - MusalaFrameWork.CareersPage.CLickOpenPosistions - DEBUG: JoinUs Page is Opened successfully 
+2022-05-21 17:39:53.3609 - 12 - MusalaFrameWork.CareersPage.SelectLocation - DEBUG: Bulgaria Location selected successfully 
+2022-05-21 17:39:57.1478 - 12 - MusalaFrameWork.CareersPage.selectVacancy - DEBUG: Vacancy selected successfully 
+2022-05-21 17:39:57.2883 - 12 - MusalaFrameWork.CareersPage.CheckVisibiltyOfJobSections - INFO: Job Sections exists successfully 
+2022-05-21 17:39:57.3102 - 12 - MusalaFrameWork.CareersPage.CheckVisibiltyOfApplyButton - INFO: Apply Button exists successfully 
+2022-05-21 17:39:59.3972 - 12 - MusalaFrameWork.CareersPage.ClickApplyButton - INFO: Apply Button CLicked successfully 
+2022-05-21 17:39:59.3992 - 12 - MusalaFrameWork.CareersPage.FillApplyForm - DEBUG: Attempting to Fill in the contacts Form 
+2022-05-21 17:40:19.1225 - 12 - MusalaFrameWork.CareersPage.FillApplyForm - INFO: Error (The e-mail address entered is invalid.) appeared successfully  
+2022-05-21 17:40:27.2356 - 12 - MusalaFrameWork.HomePage.GoTo - DEBUG: Attempting to Reach the URL 
+2022-05-21 17:40:50.8890 - 12 - MusalaFrameWork.HomePage.GoTo - INFO: Open URL =>https://www.musala.com/ 
+2022-05-21 17:40:51.1259 - 12 - MusalaFrameWork.HomePage.ClickCareers - DEBUG: Attempting to open the careers Tab 
+2022-05-21 17:40:55.9564 - 12 - MusalaFrameWork.HomePage.ClickCareers - DEBUG: Company Tab Opened successfully 
+2022-05-21 17:41:10.6017 - 12 - MusalaFrameWork.CareersPage.CLickOpenPosistions - DEBUG: JoinUs Page is Opened successfully 
+2022-05-21 17:41:22.6788 - 12 - MusalaFrameWork.CareersPage.SelectLocation - DEBUG: Bulgaria Location selected successfully 
+2022-05-21 17:41:31.6184 - 12 - MusalaFrameWork.CareersPage.selectVacancy - DEBUG: Vacancy selected successfully 
+2022-05-21 17:41:31.7490 - 12 - MusalaFrameWork.CareersPage.CheckVisibiltyOfJobSections - INFO: Job Sections exists successfully 
+2022-05-21 17:41:31.7680 - 12 - MusalaFrameWork.CareersPage.CheckVisibiltyOfApplyButton - INFO: Apply Button exists successfully 
+2022-05-21 17:41:33.8584 - 12 - MusalaFrameWork.CareersPage.ClickApplyButton - INFO: Apply Button CLicked successfully 
+2022-05-21 17:41:33.8584 - 12 - MusalaFrameWork.CareersPage.FillApplyForm - DEBUG: Attempting to Fill in the contacts Form 
+2022-05-21 17:41:53.4718 - 12 - MusalaFrameWork.CareersPage.FillApplyForm - INFO: Error (The e-mail address entered is invalid.) appeared successfully  
+2022-05-21 17:41:55.1117 - 12 - MusalaFrameWork.HomePage.GoTo - DEBUG: Attempting to Reach the URL 
+2022-05-21 17:42:18.7458 - 12 - MusalaFrameWork.HomePage.GoTo - INFO: Open URL =>https://www.musala.com/ 
+2022-05-21 17:42:18.9803 - 12 - MusalaFrameWork.HomePage.ClickCareers - DEBUG: Attempting to open the careers Tab 
+2022-05-21 17:42:24.1933 - 12 - MusalaFrameWork.HomePage.ClickCareers - DEBUG: Company Tab Opened successfully 
+2022-05-21 17:42:41.6348 - 12 - MusalaFrameWork.CareersPage.CLickOpenPosistions - DEBUG: JoinUs Page is Opened successfully 
+2022-05-21 17:42:53.7012 - 12 - MusalaFrameWork.CareersPage.SelectLocation - DEBUG: Bulgaria Location selected successfully 
+2022-05-21 17:42:57.5027 - 12 - MusalaFrameWork.CareersPage.selectVacancy - DEBUG: Vacancy selected successfully 
+2022-05-21 17:42:57.6184 - 12 - MusalaFrameWork.CareersPage.CheckVisibiltyOfJobSections - INFO: Job Sections exists successfully 
+2022-05-21 17:42:57.6393 - 12 - MusalaFrameWork.CareersPage.CheckVisibiltyOfApplyButton - INFO: Apply Button exists successfully 
+2022-05-21 17:42:59.7196 - 12 - MusalaFrameWork.CareersPage.ClickApplyButton - INFO: Apply Button CLicked successfully 
+2022-05-21 17:42:59.7196 - 12 - MusalaFrameWork.CareersPage.FillApplyForm - DEBUG: Attempting to Fill in the contacts Form 
+2022-05-21 17:43:19.3623 - 12 - MusalaFrameWork.CareersPage.FillApplyForm - INFO: Error (The e-mail address entered is invalid.) appeared successfully  
+2022-05-21 17:43:20.9954 - 12 - MusalaFrameWork.HomePage.GoTo - DEBUG: Attempting to Reach the URL 
+2022-05-21 17:43:44.6566 - 12 - MusalaFrameWork.HomePage.GoTo - INFO: Open URL =>https://www.musala.com/ 
+2022-05-21 17:43:44.8683 - 12 - MusalaFrameWork.HomePage.ClickCompany - DEBUG: Attempting to open the Company Tab 
+2022-05-21 17:44:00.1129 - 12 - MusalaFrameWork.HomePage.ClickCompany - DEBUG: Company Tab Opened successfully 
+2022-05-21 17:44:00.1524 - 12 - MusalaFrameWork.CompanyPage.VerifyLeaderShipVisibility - INFO: Leadership exists successfully 
+2022-05-21 17:44:02.6835 - 12 - MusalaFrameWork.CompanyPage.CLickFacebook - DEBUG: Facebook Page is Opened successfully 
+2022-05-21 17:44:02.6835 - 12 - MusalaFrameWork.CompanyPage.CLickFacebook - INFO: You are Navigated to facebook page successfully 
+2022-05-21 17:44:04.3038 - 12 - MusalaFrameWork.HomePage.GoTo - DEBUG: Attempting to Reach the URL 
+2022-05-21 17:44:27.9852 - 12 - MusalaFrameWork.HomePage.GoTo - INFO: Open URL =>https://www.musala.com/ 
+2022-05-21 17:44:28.2398 - 12 - MusalaFrameWork.HomePage.ClickContactUs - DEBUG: Attempting to open the contact us Form 
+2022-05-21 17:44:40.3899 - 12 - MusalaFrameWork.HomePage.ClickContactUs - DEBUG: Contact us Form Opened successfully 
+2022-05-21 17:44:43.4011 - 12 - MusalaFrameWork.ContactUsPage.FillContactUs - DEBUG: Attempting to Fill in the contacts Form 
+2022-05-21 17:44:53.8622 - 12 - MusalaFrameWork.ContactUsPage.FillContactUs - INFO: Error (The e-mail address entered is invalid.) appeared successfully  
+2022-05-21 17:44:55.4164 - 12 - MusalaFrameWork.HomePage.GoTo - DEBUG: Attempting to Reach the URL 
+2022-05-21 17:45:20.0346 - 12 - MusalaFrameWork.HomePage.GoTo - INFO: Open URL =>https://www.musala.com/ 
+2022-05-21 17:45:20.1642 - 12 - MusalaFrameWork.HomePage.ClickContactUs - DEBUG: Attempting to open the contact us Form 
+2022-05-21 17:45:32.2977 - 12 - MusalaFrameWork.HomePage.ClickContactUs - DEBUG: Contact us Form Opened successfully 
+2022-05-21 17:45:35.3055 - 12 - MusalaFrameWork.ContactUsPage.FillContactUs - DEBUG: Attempting to Fill in the contacts Form 
+2022-05-21 17:45:45.7312 - 12 - MusalaFrameWork.ContactUsPage.FillContactUs - INFO: Error (The e-mail address entered is invalid.) appeared successfully  
+2022-05-21 17:45:47.2778 - 12 - MusalaFrameWork.HomePage.GoTo - DEBUG: Attempting to Reach the URL 
+2022-05-21 17:46:11.1782 - 12 - MusalaFrameWork.HomePage.GoTo - INFO: Open URL =>https://www.musala.com/ 
+2022-05-21 17:46:11.3165 - 12 - MusalaFrameWork.HomePage.ClickContactUs - DEBUG: Attempting to open the contact us Form 
+2022-05-21 17:46:23.4452 - 12 - MusalaFrameWork.HomePage.ClickContactUs - DEBUG: Contact us Form Opened successfully 
+2022-05-21 17:46:26.4532 - 12 - MusalaFrameWork.ContactUsPage.FillContactUs - DEBUG: Attempting to Fill in the contacts Form 
+2022-05-21 17:46:36.9050 - 12 - MusalaFrameWork.ContactUsPage.FillContactUs - INFO: Error (The e-mail address entered is invalid.) appeared successfully  
+2022-05-21 17:46:38.4776 - 12 - MusalaFrameWork.HomePage.GoTo - DEBUG: Attempting to Reach the URL 
+2022-05-21 17:47:02.4557 - 12 - MusalaFrameWork.HomePage.GoTo - INFO: Open URL =>https://www.musala.com/ 
+2022-05-21 17:47:02.5838 - 12 - MusalaFrameWork.HomePage.ClickContactUs - DEBUG: Attempting to open the contact us Form 
+2022-05-21 17:47:14.7011 - 12 - MusalaFrameWork.HomePage.ClickContactUs - DEBUG: Contact us Form Opened successfully 
+2022-05-21 17:47:17.7112 - 12 - MusalaFrameWork.ContactUsPage.FillContactUs - DEBUG: Attempting to Fill in the contacts Form 
+2022-05-21 17:47:28.1849 - 12 - MusalaFrameWork.ContactUsPage.FillContactUs - INFO: Error (The e-mail address entered is invalid.) appeared successfully  
+2022-05-21 17:47:29.7121 - 12 - MusalaFrameWork.HomePage.GoTo - DEBUG: Attempting to Reach the URL 
+2022-05-21 17:47:53.7830 - 12 - MusalaFrameWork.HomePage.GoTo - INFO: Open URL =>https://www.musala.com/ 
+2022-05-21 17:47:53.9217 - 12 - MusalaFrameWork.HomePage.ClickContactUs - DEBUG: Attempting to open the contact us Form 
+2022-05-21 17:48:06.0542 - 12 - MusalaFrameWork.HomePage.ClickContactUs - DEBUG: Contact us Form Opened successfully 
+2022-05-21 17:48:09.0627 - 12 - MusalaFrameWork.ContactUsPage.FillContactUs - DEBUG: Attempting to Fill in the contacts Form 
+2022-05-21 17:48:19.5184 - 12 - MusalaFrameWork.ContactUsPage.FillContactUs - INFO: Error (The e-mail address entered is invalid.) appeared successfully  
+2022-05-21 17:48:21.1099 - 12 - MusalaFrameWork.HomePage.GoTo - DEBUG: Attempting to Reach the URL 
+2022-05-21 17:48:50.0562 - 12 - MusalaFrameWork.HomePage.GoTo - INFO: Open URL =>https://www.musala.com/ 
+2022-05-21 17:48:50.1865 - 12 - MusalaFrameWork.HomePage.ClickCareers - DEBUG: Attempting to open the careers Tab 
+2022-05-21 17:48:55.3189 - 12 - MusalaFrameWork.HomePage.ClickCareers - DEBUG: Company Tab Opened successfully 
+2022-05-21 17:49:08.8096 - 12 - MusalaFrameWork.CareersPage.CLickOpenPosistions - DEBUG: JoinUs Page is Opened successfully 
+2022-05-21 17:49:21.0958 - 12 - MusalaFrameWork.VacanciesPage.SelectSofiaLocation - INFO: Sofia Location Selected successfully 
+2022-05-21 17:49:21.7936 - 12 - MusalaFrameWork.VacanciesPage.PrintVacancies - INFO: Vacancies printed successfully 
+2022-05-21 17:49:38.9237 - 12 - MusalaFrameWork.VacanciesPage.SelectSkopjeLocation - INFO: Skopje Location Selected successfully 
+2022-05-21 17:49:39.3942 - 12 - MusalaFrameWork.VacanciesPage.PrintVacancies - INFO: Vacancies printed successfully 

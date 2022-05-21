@@ -1,0 +1,4 @@
+<PlayList Version="1.0">
+<Add Test="SampleFrameWork.SendMail.Mail_Test"/>
+<Add Test="SampleFrameWork.CheckSentMail.Mail_Test"/>
+</PlayList>

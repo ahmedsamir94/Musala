@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+	<Employee>
+		<Email>ahmed.samir.moharam7@gmail.com</Email>
+		<Recipients>ahmed.samir.moharam8@gmail.com</Recipients>
+		<Password>Asdft@1981</Password>
+		<Subject>Ahmed's First test</Subject>
+		<MessageBody>The First Automated Mail</MessageBody>
+		<CheckRecievedMailBody>The Second Automated Mail</CheckRecievedMailBody>
+		<GoogleAccount>ahmed.samir.moharam7@gmail.com</GoogleAccount>
+	</Employee>
+	<Employee>
+		<Email>ahmed.samir.moharam8@gmail.com</Email>
+		<Recipients>ahmed.samir.moharam7@gmail.com</Recipients>
+		<Password>Asdft@1981</Password>
+		<Subject>Ahmed's Second test</Subject>
+		<MessageBody>The Second Automated Mail</MessageBody>
+		<CheckRecievedMailBody>The First Automated Mail</CheckRecievedMailBody>
+		<GoogleAccount>ahmed.samir.moharam8@gmail.com</GoogleAccount>
+	</Employee>
+</Employees>
+
+
